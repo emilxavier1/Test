@@ -1,2 +1,3 @@
 Phd
 Spintronics 
+Magnetism
